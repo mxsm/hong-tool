@@ -1,0 +1,13 @@
+[package]
+name = "hong-tool"
+version = "0.1.0"
+edition = "2021"
+authors = ["mxsm <mxsm@apache.org>"]
+license = "Apache-2.0"
+keywords = ["tools", "utils", "common-tools"]
+repository = "https://github.com/mxsm/hong-tool"
+rust-version = "1.71"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
